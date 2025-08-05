@@ -1,0 +1,3 @@
+Setup linux venv with pip install adafruit-ads1x15
+don’t forget to source venv/bin/activate or deactivate
+ph meter takes 5volts input with same ground as pi ,use pi 5volt pin just for ph meter power 
